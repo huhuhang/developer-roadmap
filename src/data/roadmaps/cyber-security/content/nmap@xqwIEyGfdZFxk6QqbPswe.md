@@ -7,3 +7,4 @@ Learn more from the following resources:
 - [@official@NMAP Website](https://nmap.org/)
 - [@article@NMAP Cheat Sheet](https://www.tutorialspoint.com/nmap-cheat-sheet)
 - [@video@Nmap Tutorial to find Network Vulnerabilities](https://www.youtube.com/watch?v=4t4kBkMsDbQ)
+- [@course@Nmap Free Tutorials (Hands-on)](https://labex.io/tutorials/quick-start-with-nmap-free-tutorials-400132)
